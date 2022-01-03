@@ -10,6 +10,7 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+		// Gets the user's vertical & horizontal input
         horizontalInput = Input.GetAxis("Horizontal");
         verticalInput = Input.GetAxis("Vertical");
 
