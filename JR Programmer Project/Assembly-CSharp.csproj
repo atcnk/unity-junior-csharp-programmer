@@ -68,12 +68,13 @@
     <Compile Include="Assets\Scripts\Helpers\ColorHandler.cs" />
     <Compile Include="Assets\Scripts\Unit.cs" />
     <Compile Include="Assets\Scripts\UI\InfoPopup.cs" />
+    <Compile Include="Assets\Scripts\MainManager.cs" />
     <Compile Include="Assets\Scripts\Helpers\ColorPicker.cs" />
     <Compile Include="Assets\Scripts\Building.cs" />
     <Compile Include="Assets\Optimization\Scripts\OptimManager.cs" />
     <Compile Include="Assets\Optimization\Scripts\OptimUnit.cs" />
     <Compile Include="Assets\Scripts\TransporterUnit.cs" />
-    <Compile Include="Assets\Scripts\MainManager.cs" />
+    <Compile Include="Assets\Scripts\ProductivityUnit.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
